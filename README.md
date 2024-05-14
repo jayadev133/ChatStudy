@@ -1,5 +1,4 @@
-# Ex. No:1b 		
-Study of Client Server Chat Applications
+# Ex. No:1b 		Study of Client Server Chat Applications
 ### Name: JAYADEV PALLINTI
 ### Reg.NO: 212223240058
 ## Aim: 
